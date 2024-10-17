@@ -1,9 +1,6 @@
 # Automated-Disease-Diagnosis-Using-X-Ray-Image-Analysis-v1
-X-ray image analysis for automated disease diagnosis leverages advanced techniques in machine learning, computer vision, and deep learning to assist healthcare professionals in identifying and diagnosing medical conditions from X-ray scans.
-# X-Ray Image Analysis for Automated Disease Diagnosis
 
 ## Overview
-
 This project focuses on leveraging machine learning algorithms, specifically Support Vector Machines (SVM) and K Nearest Neighbors (KNN), to analyze chest X-ray images and detect pneumonia. Pneumonia is a significant global health concern, and timely, accurate diagnosis is crucial for proper treatment. By applying machine learning techniques, we aim to develop a system that can assist healthcare professionals in diagnosing pneumonia from chest X-rays automatically.
 
 ### Key Features:
@@ -78,9 +75,7 @@ For disease detection, especially pneumonia, recall is the most crucial metric. 
 
 ### Steps:
 1. Clone the repository:
-    ```
-    git clone https://github.com/yourusername/X-Ray-Image-Analysis-Automated-Disease-Diagnosis.git
-    ```
+   
 2. Install dependencies:
     ```
     pip install -r requirements.txt
